@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SfYnds website starter
 
 A responsive, static, blog-first website for SfYnds. It is designed to deploy on GitHub Pages or Cloudflare Pages without a build step.
@@ -44,3 +45,6 @@ Then visit `http://localhost:8000`.
 6. Add a custom domain later if you own one.
 
 Do not deploy the ZIP file itself as the website root. Extract it and upload the files and folders inside it.
+=======
+# SfYnds
+>>>>>>> 1fe6e2e847f0d486a18e5f8fd8b4895bf1e7e5f3
